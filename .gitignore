@@ -1,0 +1,5 @@
+# ignore the packages that get installed
+node_modules/
+
+# ignore the lock files
+*lock.json

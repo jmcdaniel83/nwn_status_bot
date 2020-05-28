@@ -2,7 +2,7 @@
     "name": "nwn2-status-bot",
     "version": "1.0.0",
     "description": "Neverwinter Nights Status Bot.",
-    "main": "main.js",
+    "main": "bot.js",
     "author": "Jason McDaniel",
     "dependencies": {
         "discord.io": "^2.5.3",

@@ -4,5 +4,8 @@
     "description": "Neverwinter Nights Status Bot.",
     "main": "main.js",
     "author": "Jason McDaniel",
-    "dependencies": {}
+    "dependencies": {
+        "discord.io": "^2.5.3",
+        "winston": "^3.2.1"
+    }
 }
